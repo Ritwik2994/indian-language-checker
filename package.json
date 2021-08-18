@@ -1,0 +1,22 @@
+{
+  "name": "indian-language-checker",
+  "version": "1.0.0",
+  "description": "checks whether the language is indian or not",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "homepage": "https://github.com/Ritwik2994/indian-language-checker",
+  "keywords": [
+    "ind-code",
+    "ind-checker",
+    "indian-language-checker",
+    "langCode"
+  ],
+  "author": "Ritwik Rohitashwa",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
